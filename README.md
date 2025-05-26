@@ -22,7 +22,7 @@ This project was completed as part of the Appnation Data Intern Case. It include
 # Files
 
 - `final_analysis.ipynb`: Jupyter notebook with all analysis, visualizations, and modeling
-- 'data' = contains provided data for the case
+- `data` = contains provided data for the case
 
 
 This case was a great opportunity to explore marketing data, apply modeling techniques, and reflect on business impact — all in one tight project.
